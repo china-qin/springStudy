@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/springboot?serverTimezone=UTC
+    password: Greenism@2017
+    username: root
+
+
+
+server:
+  port: 8081
